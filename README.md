@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3640-trionic-array-ii) |
 ## Sorting
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3640-trionic-array-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3640-trionic-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
