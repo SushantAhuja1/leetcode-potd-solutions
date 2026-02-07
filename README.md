@@ -35,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3640-trionic-array-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
