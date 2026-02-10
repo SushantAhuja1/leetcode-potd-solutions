@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestBalanced(vector<int>& nums) {
         int n=nums.size(),ans=0;
-        //tc->n*n
+        //tc->n*n*logn
         for(int i=0;i<n;i++) {
             set<int>e,o;
             for(int j=i;j<n;j++) {
