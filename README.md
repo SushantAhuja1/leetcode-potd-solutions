@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3803-count-residue-prefixes](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3804-number-of-centered-subarrays) |
+| [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3803-count-residue-prefixes](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3803-count-residue-prefixes) |
+| [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -104,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+## Math
+|  |
+| ------- |
+| [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 <!---LeetCode Topics End-->
