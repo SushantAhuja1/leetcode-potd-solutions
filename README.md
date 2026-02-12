@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
