@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3803-count-residue-prefixes](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3803-count-residue-prefixes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3803-count-residue-prefixes](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3803-count-residue-prefixes) |
 | [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Stack
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
