@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0696-count-binary-substrings](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0761-special-binary-string) |
+| [0856-score-of-parentheses](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0856-score-of-parentheses](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
