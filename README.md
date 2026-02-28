@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3637-trionic-array-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 ## Backtracking
 |  |
 | ------- |
