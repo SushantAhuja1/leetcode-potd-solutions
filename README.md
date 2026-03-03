@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
