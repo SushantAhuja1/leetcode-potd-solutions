@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0525-contiguous-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
