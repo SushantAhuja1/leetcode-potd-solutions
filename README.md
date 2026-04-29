@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3640-trionic-array-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
