@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
+| [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0799-champagne-tower](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0799-champagne-tower) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
