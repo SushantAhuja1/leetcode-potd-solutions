@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
