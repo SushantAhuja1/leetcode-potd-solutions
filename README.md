@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
 ## Union-Find
 |  |
