@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2906-construct-product-matrix) |
