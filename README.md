@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3804-number-of-centered-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3838-weighted-word-mapping](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3803-count-residue-prefixes](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3803-count-residue-prefixes) |
 | [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3838-weighted-word-mapping](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
