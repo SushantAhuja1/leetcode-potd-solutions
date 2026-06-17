@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0856-score-of-parentheses](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
