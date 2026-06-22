@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0874-walking-robot-simulation) |
 | [0930-binary-subarrays-with-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
