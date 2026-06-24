@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0064-minimum-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
