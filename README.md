@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0761-special-binary-string) |
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
