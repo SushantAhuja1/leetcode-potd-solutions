@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0450-delete-node-in-a-bst](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1004-max-consecutive-ones-iii) |
