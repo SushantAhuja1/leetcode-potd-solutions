@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2540-minimum-common-value) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2540-minimum-common-value](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
