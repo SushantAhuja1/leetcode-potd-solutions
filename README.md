@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1345-jump-game-iv) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0799-champagne-tower](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0799-champagne-tower) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1301-number-of-paths-with-max-score](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0064-minimum-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
