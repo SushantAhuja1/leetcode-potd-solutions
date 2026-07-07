@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3805-count-caesar-cipher-pairs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3805-count-caesar-cipher-pairs) |
