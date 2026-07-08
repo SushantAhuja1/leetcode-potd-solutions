@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2784-check-if-array-is-good) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2540-minimum-common-value](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
