@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1980-find-unique-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2833-furthest-point-from-origin](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -682,5 +687,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3620-network-recovery-pathways) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
