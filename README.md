@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1345-jump-game-iv) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -706,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
