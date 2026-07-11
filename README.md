@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
