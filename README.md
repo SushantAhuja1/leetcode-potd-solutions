@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0414-third-maximum-number) |
 | [0761-special-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
