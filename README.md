@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2751-robot-collisions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2784-check-if-array-is-good) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2421-number-of-good-paths](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2421-number-of-good-paths) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2733-neither-minimum-nor-maximum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2751-robot-collisions](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
