@@ -18,6 +18,8 @@ public:
         while(!pq.empty()) {
             auto [prob,node]=pq.top();
             pq.pop();
+            if(prob<dist[node]) continue;
+            if(node==end_node) return prob;
             for(auto &nbr:adj[node]) {
                 int nbrNode=nbr.first;
                 db costPrb=nbr.second;
@@ -27,6 +29,6 @@ public:
                 }
             }
         }
-        return dist[end_node];
+        return 0.0;
     }
 };
