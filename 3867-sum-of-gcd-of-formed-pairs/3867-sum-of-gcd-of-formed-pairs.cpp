@@ -1,39 +1,29 @@
 class Solution {
-public:
+public: 
     #define ll long long
     int n;
-    vector<ll>prefixGcd;
-    vector<int>maxi;
-    ll sum=0;
+    vector<int>mx;
+    vector<ll>prefixGCD;
     long long gcdSum(vector<int>& nums) {
         n=nums.size();
-        prefixGcd.resize(n);
-        maxi.resize(n);
-        maxi[0]=nums[0];
+        mx.resize(n);
+        prefixGCD.resize(n);
+        mx[0]=nums[0];
         for(int i=1;i<n;i++) {
-            maxi[i]=max(maxi[i-1],nums[i]);
+            mx[i]=max(mx[i-1],nums[i]);
         }
         for(int i=0;i<n;i++) {
-            prefixGcd[i]=__gcd(nums[i],maxi[i]);
+            prefixGCD[i]=__gcd(nums[i],mx[i]);
         }
-        // cout<<"prefixGcd : "<<endl;
-        // for(auto &i:prefixGcd) {
-        //     cout<<i<<" ";
-        // }
-        // cout<<endl;
-        sort(prefixGcd.begin(),prefixGcd.end());
-        // cout<<"prefixGcd sorted : "<<endl;
-        // for(auto &i:prefixGcd) {
-        //     cout<<i<<" ";
-        // }
-        // cout<<endl;
+        sort(prefixGCD.begin(),prefixGCD.end());
         int i=0,j=n-1;
+        ll sumGCD=0;
         while(i<j) {
-            ll curr=__gcd(prefixGcd[i],prefixGcd[j]);
-            sum+=curr;
+            ll currGCD=__gcd(prefixGCD[i],prefixGCD[j]);
+            sumGCD+=currGCD;
             i++;
             j--;
         }
-        return sum;
+        return sumGCD;
     }
 };
