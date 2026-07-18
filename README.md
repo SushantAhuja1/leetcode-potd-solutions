@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
