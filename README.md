@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
