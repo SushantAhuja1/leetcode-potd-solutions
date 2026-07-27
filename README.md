@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
