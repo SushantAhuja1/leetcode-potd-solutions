@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
 |  |
 | ------- |
