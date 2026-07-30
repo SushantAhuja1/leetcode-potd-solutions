@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3312-sorted-gcd-pair-queries) |
