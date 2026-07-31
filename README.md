@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2833-furthest-point-from-origin](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3713-longest-balanced-substring-i) |
