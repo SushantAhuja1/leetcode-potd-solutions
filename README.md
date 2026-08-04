@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0148-sort-list) |
 | [0696-count-binary-substrings](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1861-rotating-the-box) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Topological Sort
 |  |
