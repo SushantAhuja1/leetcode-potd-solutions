@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -827,12 +829,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
