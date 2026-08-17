@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -841,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
