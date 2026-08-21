@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1306-jump-game-iii) |
