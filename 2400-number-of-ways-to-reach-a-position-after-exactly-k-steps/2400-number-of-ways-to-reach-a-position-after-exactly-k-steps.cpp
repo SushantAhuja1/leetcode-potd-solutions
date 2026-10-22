@@ -2,7 +2,7 @@ class Solution {
 public:
     #define ll long long
     #define mod (int)(1e9+7)
-    int dp[5001][1001];
+    int dp[3001][1001];
     int solve(int currPos, int endPos, int k) {
         if(k==0) {
             if(currPos==endPos) {
