@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1871-jump-game-vii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2463-minimum-total-distance-traveled](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SushantAhuja1/leetcode-potd-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
